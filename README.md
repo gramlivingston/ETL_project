@@ -1,3 +1,3 @@
 # ETL_project
 
-To start, run the get_data.ipynb in the /Resources folder
+To start, have kaggle installed then run the Request_Data.ipynb 
