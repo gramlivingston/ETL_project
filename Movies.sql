@@ -1,4 +1,3 @@
-
 CREATE TABLE Title (
     Movie_ID INT Primary Key  NOT NULL,
     Movie_Title VARCHAR (255)  NOT NULL
