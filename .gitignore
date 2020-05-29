@@ -1,0 +1,4 @@
+#Ignore Datasets when commiting to git
+
+*.zip
+*.csv
