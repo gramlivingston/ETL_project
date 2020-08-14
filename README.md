@@ -65,4 +65,4 @@ GROUP BY rating_actor.Actors
 - Add another table with budget to investigate correlations between budget and film rating
 - Investigate groups of actors that typically work on movies together and their average rankings to find a trend
 
-**Contributors:** [Kelsey Oros](github.com/kelseyoros), [Graham Livingston](github.com/gramlivingston), [Ian Tolleson](github.com/
+**Contributors:** [Kelsey Oros](github.com/kelseyoros), [Graham Livingston](github.com/gramlivingston), [Ian Tolleson](github.com/Ian-Tolleson)
